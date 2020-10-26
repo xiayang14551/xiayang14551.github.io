@@ -141,7 +141,7 @@
             </td>
             <td valign="middle">
               <p align="left">
-                <name>Limin Yang &nbsp; (杨利民) </name>
+                <name>Guoqing Zhang &nbsp; (张国庆) </name>
               </p>
               <p>I am a Ph.D. student of Computer Science at <a href="https://illinois.edu">UIUC</a> since 08/2019. <br>
                  I focus on <em class="highlight">machine learning security, measurement, and explainable AI. </em> <br>
